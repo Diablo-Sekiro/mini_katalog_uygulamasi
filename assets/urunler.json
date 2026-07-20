@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "ad": "Espresso Blend",
+    "fiyat": "120 TL",
+    "kategori": "Sıcak Kahve",
+    "gorsel": "https://images.unsplash.com/photo-1510591509098-f4fdc6d0ff04?w=500",
+    "aciklama": "Zengin aromalı, yoğun gövdeli ve kadifemsi kremaya sahip özel harman espresso."
+  },
+  {
+    "id": 2,
+    "ad": "Iced Caramel Latte",
+    "fiyat": "150 TL",
+    "kategori": "Soğuk Kahve",
+    "gorsel": "https://images.unsplash.com/photo-1517701604599-bb29b565090c?w=500",
+    "aciklama": "Taze espresso, tatlı karamel şurubu, soğuk süt ve buzun mükemmel uyumu."
+  },
+  {
+    "id": 3,
+    "ad": "Filter Coffee",
+    "fiyat": "110 TL",
+    "kategori": "Filtre Kahve",
+    "gorsel": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=500",
+    "aciklama": "Guatemala çekirdeklerinden demlenmiş, hafif meyvemsi notalara sahip yumuşak içim."
+  },
+  {
+    "id": 4,
+    "ad": "Türk Kahvesi",
+    "fiyat": "90 TL",
+    "kategori": "Geleneksel",
+    "gorsel": "https://images.unsplash.com/photo-1578314675249-a6910f80cc4e?w=500",
+    "aciklama": "Geleneksel yöntemlerle ağır ateşte pişirilmiş, bol köpüklü taze Türk kahvesi."
+  }
+]
